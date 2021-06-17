@@ -1,6 +1,6 @@
 An ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) Python ChatBot
 ## Usage and Features
-
+* _pip install pyfiglet_
 * _pip install chatterbot==1.0.4_
 * _pip install chatterbot_corpus_
 * _python3 main.py_
